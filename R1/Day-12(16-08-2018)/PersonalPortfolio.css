@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+#header{
+    position: fixed;
+    top: 0;
+    min-height: 60px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #009688;
+    width: 100%;
+}
+nav > a{
+    text-decoration: none;
+    color:white;
+    line-height: 50px;
+    padding: 17px;
+}
+nav > a:last-child{
+    margin-right: 35px;
+}
+nav > a:hover{
+    background-color:#32bbae;
+}
+#welcome-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #009688;
+    color: white;
+    height: 100vh;
+}
+#projects{
+    height: 100vh;
+    background-color:white;
+}
+#projects-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.project-tile, .contact-tile{
+    padding-top: 110px;
+    text-align: center;
+}
+#contact{
+    height: 50vh;
+    background-color: #282c34;
+}
+#contact-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.contact-tile{
+    color: white;
+    padding-top: 20px;
+}
+.contact-icon > div{
+    font-size: 50px !important;
+    color: white !important;
+}
+.contact-icon{
+    margin-right: 20px;
+}
+.cm-card{
+    background-color: #32bbae;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+.cm-card > a{
+    text-decoration: none;
+    color: white;
+}
+@media only screen and (max-width: 600px){
+    .project-tile, .contact-tile{
+        padding-top: 60px;
+    } 
+    #projects{
+        overflow: hidden;
+    }
+    .cm-card{
+        width: 282px;
+        line-height: 52px;
+    }
+}

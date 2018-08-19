@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+#header{
+    position: fixed;
+    top: 0;
+    min-height: 60px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #20232A;
+    width: 100%;
+}
+#header-img{
+    width: 80px;
+    height: 50px;
+    margin-left: 50px;
+}
+nav > a{
+    text-decoration: none;
+    color:white;
+    line-height: 50px;
+    padding: 17px;
+}
+nav > a:last-child{
+    margin-right: 35px;
+}
+nav > a:hover{
+    background-color:#2A424D;
+}
+#title{
+    text-align: center;
+    padding: 70px;
+    background-color: #282c34;
+    color: white;
+    height: calc(65vh - 40px);
+}
+#formEmail{
+    display: flex;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#formEmail > h2{
+    margin-bottom: 15px;
+}
+#form > input{
+    padding: 10px;
+}
+#form > input[type=submit]{
+    background-color: #2a424d;
+    border: none;
+    border-radius: 4px;
+    color:white;
+    cursor: pointer;
+}
+#sectionVideo {
+    display: flex;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    background-color: #20232A;
+}
+#docs{
+    display: flex;
+    justify-content: center;
+}
+
+#docs > .cm-card{
+    background-color: #282c34;
+    width: 350px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+.titleSetion{
+    text-align: center;
+    margin: 20px;
+}
+.cm-card > a{
+    text-decoration: none;
+    color: white;
+}
+
+@media only screen and (max-width: 500px) {
+    #header{
+        flex-direction: column;
+    }
+    #title > img{
+        width: 350px;
+    }
+    #sectionVideo > iframe{
+        width: 350px;
+    }
+    #docs > .cm-card{
+        line-height: 49px;
+    } 
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>typeWrite</title>
+    <style>
+        body{
+            background:linear-gradient(90deg,#5572C4,#C2336A);  
+        }
+        button{
+            padding: 15px;
+            border-radius: 5px;
+            background: linear-gradient(90deg,#5572C4,#C2336A);
+            border: none;
+        }
+        p{
+            font-size: 1.5rem;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <button onclick="typeWriter()">Click me</button>
+    <p id="demo"></p>
+<script>
+    var i = 0;
+    var txt = `Hola, Mi nombre es ADONIS MENDOZA, y soy Aspirante a convertirme a desarrollador FullStack`;
+    var speed = 50;
+
+    function typeWriter() {
+        if (i < txt.length) {
+            document.getElementById("demo").innerHTML += txt.charAt(i);
+            i++;
+            setTimeout(typeWriter, speed);
+        }
+    }
+</script>      
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Survey Form</title>
+    <link rel="stylesheet" type="text/css" href="style.css" >
+</head>
+<body>
+    <main>
+        <h1 style="text-align: center;" id="title">Survey Form</h1>
+        <p  style="text-align: center;" id="description">Description of the proyect</p>
+
+        <section>
+            <form id="survey-form">
+                <div class="group">
+                    <label id="name-label" for="name">Name</label>
+                    <input required="" placeholder="Your name here..." type="text" class="form-control" id="name">
+                </div>
+                <div class="group">
+                    <label id="email-label" for="email">Email</label>
+                    <input id="email" placeholder="Your email here..." required="" type="email" class="form-control">
+                </div>
+                <div class="group">
+                    <label id="number-label" for="number">Think of a number between 1 and 143</label>
+                    <input type="number" placeholder="13" id="number" min="1" max="143">
+                </div>
+                <div class="group">
+                    <label>Which option best describes your current role?</label>
+                    <select id="dropdown">
+                        <option disabled="" value="">Select an option</option>
+                        <option value="student">Student</option>
+                        <option value="job">Full Time Job</option>
+                        <option value="learner">Full Time Learner</option>
+                        <option value="preferNo">Prefer not to say</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="group">
+                    <labe>How likely is that you would recommend freeCodeCamp to a friend?</labe>
+                    <label style="display: block"><input name="radio-buttons"  value="1" type="radio" class="userRatings"> Definitely</label>
+                    <label style="display: block"><input name="radio-buttons"  value="2" type="radio" class="userRatings"> Maybe</label>
+                    <label style="display: block"><input name="radio-buttons"  value="3" type="radio" class="userRatings"> Not sure</label>
+                </div>
+                <div class="group">
+                    <label>What do you like most in FCC:</label>
+                    <select id="dropdown">
+                        <option disabled="" selected="" value="">Select an option</option>
+                        <option value="challenges">Challenges</option>
+                        <option value="projects">Projects</option>
+                        <option value="community">Community</option>
+                        <option value="openSource">Open Source</option>
+                    </select>
+                </div>
+               <div class="group">
+                    <label>Things that should be improved in the future(Check all that apply):</label>
+                    <ul id="preferences" style="list-style: none;">
+                        <li class="checkbox"><label><input name="prefer" value="1" type="checkbox" class="userRatings">Front-end Projects</label></li>
+                        <li class="checkbox"><input name="prefer" value="2" type="checkbox" class="userRatings">Back-end Projects</li>
+                        <li class="checkbox"><label><input name="prefer" value="3" type="checkbox" class="userRatings">Data Visualization</label></li>
+                        <li class="checkbox"><label><input name="prefer" value="4" type="checkbox" class="userRatings">Challenges</label></li>
+                        <li class="checkbox"><label><input name="prefer" value="5" type="checkbox" class="userRatings">Open Source Community</label></li>
+                        <li class="checkbox"><label><input name="prefer" value="6" type="checkbox" class="userRatings">Gitter help rooms</label></li>
+                        <li class="checkbox"><label><input name="prefer" value="7" type="checkbox" class="userRatings">Videos</label></li>
+                        <li class="checkbox"><label><input name="prefer" value="8" type="checkbox" class="userRatings">City Meetups</label></li>
+                        <li class="checkbox"><label><input name="prefer" value="9" type="checkbox" class="userRatings">Wiki</label></li>
+                        <li class="checkbox"><label><input name="prefer" value="10" type="checkbox" class="userRatings">Forum</label></li>
+                        <li class="checkbox"><label><input name="prefer" value="10" type="checkbox" class="userRatings">Additional Courses</label></li>
+                    </ul>
+               </div>
+                <div class="group">
+                    <label>Any Comments or Suggestions?</label>
+                    <textarea id="comments"></textarea>
+                </div>
+                <button id="submit" type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+</body>
+</html>
