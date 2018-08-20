@@ -52,4 +52,7 @@ I was working on the Personal Portfolio project, today I was finishing this proj
 Today I started working with javascript, specifically with the basic concepts, I have intermediate knowledge of javascript, what I learned new in this section was the Do .. while, and also the parseInt (string, 2) that you can get the root of this form.
 
 ### R1D14
-today I finished the basic javascript section and now enter the module of ES6, so far I have not learned anything new with ES6 because I had already studied this topic.
+Today I finished the basic javascript section and now enter the module of ES6, so far I have not learned anything new with ES6 because I had already studied this topic.
+
+### R1D15
+Today working at ES6 with Destructuring Assignment to Assign Variables from Objects and Arrays, honestly are not practice this lesson in the real life or not frequently.
