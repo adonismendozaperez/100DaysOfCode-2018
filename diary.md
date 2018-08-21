@@ -56,3 +56,6 @@ Today I finished the basic javascript section and now enter the module of ES6, s
 
 ### R1D15
 Today working at ES6 with Destructuring Assignment to Assign Variables from Objects and Arrays, honestly are not practice this lesson in the real life or not frequently.
+
+### R1D16
+Today I finished the session es6, some what i liked of this session is Destructuring Assignment to Pass an Object as a Function's Parameters, is very useful.
