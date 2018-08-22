@@ -59,3 +59,6 @@ Today working at ES6 with Destructuring Assignment to Assign Variables from Obje
 
 ### R1D16
 Today I finished the session es6, some what i liked of this session is Destructuring Assignment to Pass an Object as a Function's Parameters, is very useful.
+
+### R1D17 
+Today I was working with Regex (regular expressions) this session was not completed, but I learned about this terminology and how to used.
