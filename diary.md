@@ -62,3 +62,6 @@ Today I finished the session es6, some what i liked of this session is Destructu
 
 ### R1D17 
 Today I was working with Regex (regular expressions) this session was not completed, but I learned about this terminology and how to used.
+
+### R1D18
+Tonight I finished the Regex session, and I really learned a lot, this topic is very useful and it is used a lot to do validations.
