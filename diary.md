@@ -65,3 +65,6 @@ Today I was working with Regex (regular expressions) this session was not comple
 
 ### R1D18
 Tonight I finished the Regex session, and I really learned a lot, this topic is very useful and it is used a lot to do validations.
+
+### R1D19
+Tonight worked with the Debugging Challenges, for me it's basic, because I work everyday with javascript and I use the debugger; syntax for Debugging my apps.
