@@ -68,3 +68,6 @@ Tonight I finished the Regex session, and I really learned a lot, this topic is 
 
 ### R1D19
 Tonight worked with the Debugging Challenges, for me it's basic, because I work everyday with javascript and I use the debugger; syntax for Debugging my apps.
+
+### R1D20
+Today I collaborate with the Xamarin Universal Library and init Basic Data Structures.
