@@ -74,3 +74,6 @@ Today I collaborate with the Xamarin Universal Library and init Basic Data Struc
 
 ### R1D21
 Tonight work with the arrays module in freecodecamp.
+
+### R1D22
+Today I Finished Basic Data Structures and Basic Algorithm Scripting in the section of JavaScript
