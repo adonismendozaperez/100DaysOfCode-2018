@@ -71,3 +71,6 @@ Tonight worked with the Debugging Challenges, for me it's basic, because I work 
 
 ### R1D20
 Today I collaborate with the Xamarin Universal Library and init Basic Data Structures.
+
+### R1D21
+Tonight work with the arrays module in freecodecamp.
