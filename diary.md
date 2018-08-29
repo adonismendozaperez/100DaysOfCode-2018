@@ -78,6 +78,8 @@ Tonight work with the arrays module in freecodecamp.
 ### R1D22
 Today I Finished Basic Data Structures and Basic Algorithm Scripting in the section of JavaScript
 
-## R1D23
+### R1D23
 Tonight init the section Object Oriented Programming, I learned of the constructor and Inheritance.
- 
+
+### R1D24
+Tonight I Finished the section Object Oriented Programming, in this section I learned receive, or inherit, all the features from a base or parent class. This helps to reduce repeated code.
