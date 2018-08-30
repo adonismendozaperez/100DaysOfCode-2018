@@ -83,3 +83,6 @@ Tonight init the section Object Oriented Programming, I learned of the construct
 
 ### R1D24
 Tonight I Finished the section Object Oriented Programming, in this section I learned receive, or inherit, all the features from a base or parent class. This helps to reduce repeated code.
+
+### R1D25
+Today I started working with the Functional Programming session, in this session I think I will study it more carefully because what little I have read I think it is worth dedicating its time, because it is like a series of methodologies to improve the way programs.
