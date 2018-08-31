@@ -86,3 +86,6 @@ Tonight I Finished the section Object Oriented Programming, in this section I le
 
 ### R1D25
 Today I started working with the Functional Programming session, in this session I think I will study it more carefully because what little I have read I think it is worth dedicating its time, because it is like a series of methodologies to improve the way programs.
+
+### R1D26
+Today I continued learned about the Functional Programming session.
