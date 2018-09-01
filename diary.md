@@ -89,3 +89,6 @@ Today I started working with the Functional Programming session, in this session
 
 ### R1D26
 Today I continued learned about the Functional Programming session.
+
+### R1D27
+tonight I was working with reducer to do data calculations, also with slice, sort and concat.
