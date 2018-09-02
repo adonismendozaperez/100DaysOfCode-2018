@@ -91,4 +91,7 @@ Today I started working with the Functional Programming session, in this session
 Today I continued learned about the Functional Programming session.
 
 ### R1D27
-tonight I was working with reducer to do data calculations, also with slice, sort and concat.
+Tonight I was working with reducer to do data calculations, also with slice, sort and concat.
+
+### R1D28
+tonight I was working with Combine an Array into a String Using the join Method, every Method, some Method and Currying and Partial Application. 
