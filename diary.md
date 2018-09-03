@@ -94,4 +94,7 @@ Today I continued learned about the Functional Programming session.
 Tonight I was working with reducer to do data calculations, also with slice, sort and concat.
 
 ### R1D28
-tonight I was working with Combine an Array into a String Using the join Method, every Method, some Method and Currying and Partial Application. 
+Tonight I was working with Combine an Array into a String Using the join Method, every Method, some Method and Currying and Partial Application. 
+
+### R1D29
+Tonight working with the Intermediate Algorithm Scripting, I resolved four problems, this problem are Diff Two Arrays, Sum All Numbers In a Range, Spinal Tap Case and Wherefore Art Thou.
