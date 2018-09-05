@@ -99,5 +99,8 @@ Tonight I was working with Combine an Array into a String Using the join Method,
 ### R1D29
 Tonight working with the Intermediate Algorithm Scripting, I resolved four problems, this problem are Diff Two Arrays, Sum All Numbers In a Range, Spinal Tap Case and Wherefore Art Thou.
 
-## R1D30
+### R1D30
 Tonight continue to the Intermediate Algorithm Scripting, I resolved some Algorithm of this section.
+
+### R1D31
+Tonight I Finished the section Intermediate Algorithm Scripting, and tomorrow I continue to finish the final projects of this section.
