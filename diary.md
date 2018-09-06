@@ -104,3 +104,7 @@ Tonight continue to the Intermediate Algorithm Scripting, I resolved some Algori
 
 ### R1D31
 Tonight I Finished the section Intermediate Algorithm Scripting, and tomorrow I continue to finish the final projects of this section.
+
+### R1D32
+Tonight I Finished the JavaScript Algorithms and Data Structures Projects and I obtained my 
+Javascript Algorithms And Data Structures Certification.
