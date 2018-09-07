@@ -108,3 +108,6 @@ Tonight I Finished the section Intermediate Algorithm Scripting, and tomorrow I 
 ### R1D32
 Tonight I Finished the JavaScript Algorithms and Data Structures Projects and I obtained my 
 Javascript Algorithms And Data Structures Certification.
+
+### R1D33
+Tonight I started with the content of the Front End Libraries Certification, of the section Sass, I feel a little frustrated with the bugs that the freeCodeCamp editor has with sass.
