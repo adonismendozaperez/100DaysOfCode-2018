@@ -111,3 +111,6 @@ Javascript Algorithms And Data Structures Certification.
 
 ### R1D33
 Tonight I started with the content of the Front End Libraries Certification, of the section Sass, I feel a little frustrated with the bugs that the freeCodeCamp editor has with sass.
+
+### R1D34
+Tonight I Finished the section Sass i have various bugs

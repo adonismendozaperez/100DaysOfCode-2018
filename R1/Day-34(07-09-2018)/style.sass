@@ -1,0 +1,32 @@
+//Apply a Style Until a Condition is Met with @while
+$x: 1;
+@while $x <= 10 {
+  .text-#{$x} {font-size: 5px * $x;}
+  $x: $x + 1;
+}
+//Sass: Use @each to Map Over Items in a List
+@each $color in blue, black, red {
+    .#{$color}-bg {background-color: $color;}
+  }
+
+//Sass: Split Your Styles into Smaller Chunks with Partials
+// The main.scss file
+@import 'variables';
+
+//Sass: Extend One Set of CSS Styles to Another Element
+h3{
+    text-align: center;
+  }
+  .info{
+    width: 200px;
+    border: 1px solid black;
+    margin: 0 auto;
+  }
+  
+  .info-important{
+    @extend .info;
+    width: 200px;
+    border: 1px solid black;
+    margin: 0 auto;
+    background-color: magenta;
+}
