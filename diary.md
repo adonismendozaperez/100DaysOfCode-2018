@@ -116,4 +116,7 @@ Tonight I started with the content of the Front End Libraries Certification, of 
 Tonight I Finished the section Sass i have various bugs
 
 ### R1D35
-Tonight I started the section React
+Tonight I started the section React.
+
+### R1D36
+tonight i continue practicing with React in freeCodeCamp, I have experience with Reactjs.
