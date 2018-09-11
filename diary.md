@@ -120,3 +120,6 @@ Tonight I started the section React.
 
 ### R1D36
 tonight i continue practicing with React in freeCodeCamp, I have experience with Reactjs.
+
+### R1D37
+Tonight I continue practicing with React in freeCodeCamp, a learn about Use Default Props, Override Default Props, Use PropTypes to Define the Props You Expect and Pass Props to a Stateless Functional Component.
