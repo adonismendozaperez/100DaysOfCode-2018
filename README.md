@@ -25,7 +25,7 @@ Code is to be pushed to Github or Bitbucket (for private repos) daily. Not all c
 
 # Stuff I want to learn or beef up
 
-* Css3
+- [x] Css3
 * JavaScript
 * JQuery
 * React
