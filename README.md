@@ -26,12 +26,12 @@ Code is to be pushed to Github or Bitbucket (for private repos) daily. Not all c
 # Stuff I want to learn or beef up
 
 - [x] Css3
-* JavaScript
-* JQuery
-* React
-* Redux
-* Data Visualization with D3 or Chartjs
-* Docker
+- [x] JavaScript
+- [x] JQuery
+- [ ] React
+- [ ] Redux
+- [ ] Data Visualization with D3 or Chartjs
+- [ ] Docker
 
 # Schedule / What I did
 my activity diary will take them in a file called diary.md
