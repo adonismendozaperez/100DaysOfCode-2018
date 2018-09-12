@@ -123,3 +123,6 @@ tonight i continue practicing with React in freeCodeCamp, I have experience with
 
 ### R1D37
 Tonight I continue practicing with React in freeCodeCamp, a learn about Use Default Props, Override Default Props, Use PropTypes to Define the Props You Expect and Pass Props to a Stateless Functional Component.
+
+### R1D38
+Tonight I working in bg-color, this Web app Get Random color and copy to clipboard, I build these app with React
