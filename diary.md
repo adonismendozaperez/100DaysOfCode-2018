@@ -126,3 +126,6 @@ Tonight I continue practicing with React in freeCodeCamp, a learn about Use Defa
 
 ### R1D38
 Tonight I working in bg-color, this Web app Get Random color and copy to clipboard, I build these app with React
+
+### R1D39 
+Tonight I continued learning React in FreeCodeCamp, where I learned about Create state and set value to the state with the property setState
