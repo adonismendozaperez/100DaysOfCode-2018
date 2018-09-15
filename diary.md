@@ -129,3 +129,9 @@ Tonight I working in bg-color, this Web app Get Random color and copy to clipboa
 
 ### R1D39 
 Tonight I continued learning React in FreeCodeCamp, where I learned about Create state and set value to the state with the property setState
+
+### R1D40
+Today I work in bg-color and I modified the methods and add the state value.
+
+### R1D41
+Tonight I continued working in react, I Create a Controlled Input, I Create a Controlled Form, I Pass State as Props to Child Components, I Pass a Callback as Props and the Life Cycle Method.
