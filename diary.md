@@ -135,3 +135,6 @@ Today I work in bg-color and I modified the methods and add the state value.
 
 ### R1D41
 Tonight I continued working in react, I Create a Controlled Input, I Create a Controlled Form, I Pass State as Props to Child Components, I Pass a Callback as Props and the Life Cycle Method.
+
+### R1D42
+Tonight I finished the React section, I Optimize Re-Renders with shouldComponentUpdate, I Bind 'this' to a Class Method, I Add Inline Styles in React and I Use Advanced JavaScript in React Render Method.
