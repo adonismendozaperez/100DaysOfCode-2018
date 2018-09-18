@@ -138,3 +138,9 @@ Tonight I continued working in react, I Create a Controlled Input, I Create a Co
 
 ### R1D42
 Tonight I finished the React section, I Optimize Re-Renders with shouldComponentUpdate, I Bind 'this' to a Class Method, I Add Inline Styles in React and I Use Advanced JavaScript in React Render Method.
+
+### R1D43
+Tonight I practiced the Life Cycle Method in React and others concepts
+
+### R1D44
+Tonight I Init the section Redux, and I Create a Redux Store, Get State from the Redux Store, Define a Redux Action, Define an Action Creator, Dispatch an Action Event, Handle an Action in the Store and I Use a Switch Statement to Handle Multiple Actions.
