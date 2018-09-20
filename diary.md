@@ -144,3 +144,9 @@ Tonight I practiced the Life Cycle Method in React and others concepts
 
 ### R1D44
 Tonight I Init the section Redux, and I Create a Redux Store, Get State from the Redux Store, Define a Redux Action, Define an Action Creator, Dispatch an Action Event, Handle an Action in the Store and I Use a Switch Statement to Handle Multiple Actions.
+
+### R1D45
+Tonight I review the main concept of Redux, in this part I also got confused a little.
+
+### R1D46
+Tonight I review the main concept of Redux again.
