@@ -150,3 +150,6 @@ Tonight I review the main concept of Redux, in this part I also got confused a l
 
 ### R1D46
 Tonight I review the main concept of Redux again.
+
+### R1D47
+Tonight I worked with  Redux and finished this section, Tomorrow I continue to Redux in React. 
