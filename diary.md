@@ -153,3 +153,9 @@ Tonight I review the main concept of Redux again.
 
 ### R1D47
 Tonight I worked with  Redux and finished this section, Tomorrow I continue to Redux in React. 
+
+### R1D48
+Tonight I worked with with React Redux and Manage State Locally First.
+
+### R1D49
+Today I worked with Extract State Logic to Redux, Use Provider to Connect Redux to React, Map State to Props and Map Dispatch to Props.
