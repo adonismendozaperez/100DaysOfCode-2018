@@ -159,3 +159,6 @@ Tonight I worked with with React Redux and Manage State Locally First.
 
 ### R1D49
 Today I worked with Extract State Logic to Redux, Use Provider to Connect Redux to React, Map State to Props and Map Dispatch to Props.
+
+### R1D50
+Tonight I worked with Connect Redux to React, Connect Redux to the Messages App and Extract Local State into Redux, I almost finished this section, I only need the final projects.
