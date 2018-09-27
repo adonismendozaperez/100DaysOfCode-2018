@@ -165,3 +165,9 @@ Tonight I worked with Connect Redux to React, Connect Redux to the Messages App 
 
 ### R1D51
 tonight i started with the project Markdown Previewer and I just made the design. 
+
+### R1D52
+tonight I continued working with the project Markdown Previewer.
+
+### R1D53
+tonight I continued working with the project Markdown Previewer, and have a litle error to convert to MD to HTML, I Instance in my JS file the marked.parser key, and it does not work.
