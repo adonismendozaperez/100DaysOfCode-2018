@@ -177,3 +177,6 @@ I continued working with the project Markdown Previewer.
 
 ### R1D55
 I continued working with the project Markdown Previewer and I just need to fix the design and three user stories.
+
+### R1D56
+Today I finished the project Markdown Previewer.

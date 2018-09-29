@@ -1,0 +1,135 @@
+<html>
+<head>
+    <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.js"></script>
+    <style>
+        *{
+            padding: 0;
+            margin:0;
+            caret-color: #2bbbad;
+        }
+        ::-webkit-scrollbar {
+            background-color: transparent;
+            height: 4px;
+            width: 4px;
+        }
+        ::-webkit-scrollbar-thumb {
+            border: none;
+            border-radius: 9px;
+            background-color: #2bbbad;
+        }
+        header{
+            height: 10vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #2bbbad;
+            color: white;
+            font-size: 2em;
+        }
+        main{
+            display:flex;
+            height: calc(100vh - 10vh);
+            width: 100vw;
+            overflow: hidden;
+        }
+        section{
+            overflow: auto;
+        } 
+        textarea{
+            width: 100%;
+            height: 100%;
+            resize: none;
+            outline: none;
+            padding: 10px;
+            border: none;
+            border-right: 0.1px solid #2bbbad;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>Markdown Preview</nav>
+    </header>
+<main>
+    <section style="width: 50%;">
+        <textarea id="editor" autofocus>
+# Welcome to my React Markdown Previewer!
+
+## This is a sub-heading...
+### And here's some other cool stuff:
+    
+Heres some code, `<div></div>`, between 2 backticks.
+
+```
+// this is multi-line code:
+
+function anotherExample(firstLine, lastLine) {
+    if (firstLine == '```' && lastLine == '```') {
+    return multiLineCode;
+    }
+}
+```
+    
+You can also make text **bold**... whoa!
+Or _italic_.
+Or... wait for it... **_both!_**
+And feel free to go crazy ~~crossing stuff out~~.
+
+There's also [links](https://www.freecodecamp.com), and
+> Block Quotes!
+
+And if you want to get really crazy, even tables:
+
+Wild Header | Crazy Header | Another Header?
+------------ | ------------- | ------------- 
+Your content can | be here, and it | can be here....
+And here. | Okay. | I think we get it.
+
+- And of course there are lists.
+    - Some are bulleted.
+        - With different indentation levels.
+        - That look like this.
+
+
+1. And there are numbererd lists too.
+1. Use just 1s if you want! 
+1. But the list goes on...
+- Even if you use dashes or asterisks.
+* And last but not least, let's not forget embedded images:
+
+![React Logo w/ Text](https://goo.gl/Umyytc)     
+        </textarea>
+    </section>
+    <section id="preview" style="width: 50%;padding: 10px;"></section>
+</main>
+<script type="text/javascript">
+    window.onload = function(){
+        marked.setOptions({
+            gfm: true,
+            tables: true,
+            breaks: false,
+            pedantic: false,
+            sanitize: true,
+            smartLists: true,
+            langPrefix: "language-",
+            highlight: function(code, lang) {
+                if (lang === "js") {
+                    return highlighter.javascript(code);
+                }
+                return code;
+            }
+        });
+        document.querySelector("#editor").addEventListener("keyup",()=>{
+            updateView();
+        })
+        updateView();
+        function updateView() {
+            var input = $("#editor").val();
+            $("#preview").html(marked(input));
+        }
+    };
+</script>
+</body>
+</html>
