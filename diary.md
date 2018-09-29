@@ -171,3 +171,9 @@ tonight I continued working with the project Markdown Previewer.
 
 ### R1D53
 tonight I continued working with the project Markdown Previewer, and have a litle error to convert to MD to HTML, I Instance in my JS file the marked.parser key, and it does not work.
+
+### R1D54
+I continued working with the project Markdown Previewer.
+
+### R1D55
+I continued working with the project Markdown Previewer and I just need to fix the design and three user stories.
