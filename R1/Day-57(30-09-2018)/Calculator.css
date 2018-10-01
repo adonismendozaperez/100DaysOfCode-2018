@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(3,0,57);
+    background: linear-gradient(90deg, rgba(3,0,57,1) 16%, rgba(47,51,159,1) 61%, rgba(12,77,186,1) 98%);
+}
+.keyboard-numerico {
+    width: 100%;
+    height: calc(100vh - 446px);
+    background-color: #F5F6F8;
+    box-sizing: border-box;
+    margin-top: 446px;
+    padding: 2px 0px;
+    display: block;
+}
+#calculator {
+    width: 289px;
+    height: auto;
+    overflow: hidden;
+    margin: 13px auto;
+    padding: 0px 1px 0px;
+    position: relative;
+	top: 155px;
+    background: transparent;
+    border-radius: 3px;
+}
+.top input.clear {
+    position: absolute;
+    z-index: 6;
+}
+.top .screen {
+    height: 50px;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0;
+    padding: 5px 10px;
+    background: white;
+    font-size: 27px;
+    font-weight: normal;
+    line-height: 40px;
+    color: black;
+    text-align: right;
+    letter-spacing: 1px;
+	border: 1px solid rgba(0,0,0,0.3);
+}
+.keys, .top {
+    overflow: hidden;
+}
+.top {
+    border-radius: 8px;
+}
+.keys {
+    top: 5px;
+    position: relative;
+}
+.keys input, .top input.clear {
+    outline: none;
+    border: none;
+    float: left;
+    position: relative;
+    top: 0;
+    cursor: pointer;
+    width: 67px;
+    height: 51px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 3px;
+    margin: 0 6px 10px 0;
+    color: #ccc;
+    line-height: 50px;
+    text-align: center;
+    background-color: #fff;
+    color: black;
+}
+.keys input.operator {
+    background: #0591cc;
+    margin-right: 0;
+    color: white;
+}
+.top input.clear {
+    background: transparent;
+    width: 56px;
+    left: 5px;
+}
+.keys input.eval {
+    width: 140px;
+    background: #0591cc;
+    margin-right: 0;
+    color: white;
+}

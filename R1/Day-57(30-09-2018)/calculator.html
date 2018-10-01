@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Calculator</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="Calculator.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+    <script src="Calculator.js"></script>
+</head>
+<body>
+<div id="calculator">         
+    <div class="top">
+        <div  id="display" class="screen"></div>
+    </div>
+    <div class="keys">
+        <input type="button" value="C" class="btnNum LimpiarPantalla" />
+        <input type="button" value="%" class="operadorResiduo" />
+        <input type="button" id="clear" value="DEL" class="btnFuntionPad LimpiarPantalla"  />
+        <input type="button" id="divide" value="÷" class="operator operadorDivicion" />
+        <input type="button" id="seven"value="7" class="num7"/>
+        <input type="button" id="eight"value="8" class="num8"/>
+        <input type="button" id="nine" value="9" class="num9"/>
+        <input type="button" id="multiply" value="x" class="operator operadorMultiplicacion" />
+        <input type="button" id="four" value="4" class="num4"/>
+        <input type="button" id="five" value="5" class="num5"/>
+        <input type="button" id="six"  value="6" class="num6"/>
+        <input type="button" id="subtract" value="-" class="operator operadorResta" />
+        <input type="button" id="one"  value="1" class="num1"/>
+        <input type="button" id="two"  value="2" class="num2"/>
+        <input type="button" id="three"value="3" class="num3"/>
+        <input type="button" id="add"  value="+" class="operator operadorSuma" />
+        <input type="button" id="zero" value="0" class="num0"/>
+        <input type="button" id="decimal" value="." class="numPunto"/>
+        <input type="button" id="equals" value="=" class="btnNum eval calcularResultado"  />
+    </div>
+</div>
+</body>
+</html>

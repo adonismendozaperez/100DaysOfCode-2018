@@ -180,3 +180,6 @@ I continued working with the project Markdown Previewer and I just need to fix t
 
 ### R1D56
 Today I finished the project Markdown Previewer.
+
+### R1D57 
+Today I worked with the project Calculator in JavaScript.
