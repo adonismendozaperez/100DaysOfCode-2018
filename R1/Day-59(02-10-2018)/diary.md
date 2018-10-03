@@ -186,6 +186,3 @@ Today I worked with the project Calculator in JavaScript.
 
 ### R1D58
 Today I watch the video of Python, I'm getting a lot of attention python.
-
-### R1D59
-Today I finished the calculator, using JQuery.
