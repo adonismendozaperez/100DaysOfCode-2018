@@ -189,3 +189,7 @@ Today I watch the video of Python, I'm getting a lot of attention python.
 
 ### R1D59
 Today I finished the calculator, using JQuery.
+
+### R1D60
+Today I working with the ASP.Net Core 2.0 Path of the Microsoft Virtual Academy, and I completed the 
+ASP.NET Core - Beginner, and I continued working with ASP.NET Core - Intermediate.
