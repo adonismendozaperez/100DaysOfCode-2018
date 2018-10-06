@@ -196,3 +196,6 @@ ASP.NET Core - Beginner, and I continued working with ASP.NET Core - Intermediat
 
 ### R1D61
 Yesterday I finished the ASP.NET  Core 2.0 path of Microsodt Virtual Academy, and I completed the aspnet core intermediate and I Asp.Net  core Advanced.
+
+### R1D62
+Today I learn with Python of the office page doc. 

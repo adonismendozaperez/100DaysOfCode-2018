@@ -28,10 +28,10 @@ Code is to be pushed to Github or Bitbucket (for private repos) daily. Not all c
 - [x] Css3
 - [x] JavaScript
 - [x] JQuery
-- [ ] React
-- [ ] Redux
+- [x] React
+- [x] Redux
 - [ ] Data Visualization with D3 or Chartjs
-- [ ] Docker
+- [ ] Python
 
 # Schedule / What I did
 my activity diary will take them in a file called diary.md
