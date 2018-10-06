@@ -193,3 +193,6 @@ Today I finished the calculator, using JQuery.
 ### R1D60
 Today I working with the ASP.Net Core 2.0 Path of the Microsoft Virtual Academy, and I completed the 
 ASP.NET Core - Beginner, and I continued working with ASP.NET Core - Intermediate.
+
+### R1D61
+Yesterday I finished the ASP.NET  Core 2.0 path of Microsodt Virtual Academy, and I completed the aspnet core intermediate and I Asp.Net  core Advanced.
